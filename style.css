@@ -1,0 +1,81 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.sec{
+    padding: 14rem 10rem;
+}
+.sec > h1 {
+    font-size: 4rem;
+}
+.first {
+    padding: 2rem;
+}
+.header {
+    background-image: url(img/header-bg.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.back {
+    background-image: url(img/video-bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    border-radius: 1rem;
+}
+.left-pic {
+    background-color: rgba(0, 0, 0, 0.733);
+    padding: 9rem ;
+    border-radius: 1rem;
+}
+.a {
+    color: rgb(234, 163, 70);
+    text-decoration: none;
+}
+.one {
+    background-image: url(img/menu-bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-size: cover;
+}
+.one > h1 {
+    padding-top: 7rem ;
+}
+.one > p {
+    color: rgb(234, 163, 70);
+}
+.bon {
+    padding: 2rem;
+}
+.ben {
+    padding: 2rem 1rem;
+    border-radius: 1rem;
+    box-shadow: 0px 0px 3px rgb(42, 42, 42);
+}
+.pen > h1 {
+    padding-top: 7rem ;
+}
+.pen > p {
+    color: rgb(234, 163, 70);
+}
+.ooo {
+    background-color: rgb(199, 137, 56);
+}
+.ooo > h1 {
+    padding-top: 7rem ;
+}
+.ooo > h1 > .text{
+    color: orangered;
+}
+.bun > h1 {
+    padding-top: 7rem ;
+}
+.bun > p {
+    color: rgb(234, 163, 70);
+}
+.pop {
+    padding-right: 5rem;
+}
+.pop
